@@ -5,8 +5,8 @@ This repository is primarily to document the different data analysis projects I 
 
 ## About the datasets used:
 
-1. The code [📚🤯 Learning more about the Kaggle community 🤓🔖](https://github.com/booktrackerGirl/Survey-Analysis/blob/main/learning-more-about-the-kaggle-community.ipynb) corresponds to the data analysis done for the [2022 Kaggle Machine Learning & Data Science Survey](https://www.kaggle.com/competitions/kaggle-survey-2022/). <br>
-<b>Description</b>: The intention of Kaggle was to conduct an industry-wide survey that presents a truly comprehensive view of the state of data science and machine learning. The survey was live from 09/16/2022 to 10/16/2022, and after cleaning the data, they finished with 23,997 responses!<br>
+1. The code [📚🤯 Learning more about the Kaggle community 🤓🔖](https://github.com/booktrackerGirl/Survey-Analysis/blob/main/learning-more-about-the-kaggle-community.ipynb) corresponds to the data analysis done for the [2022 Kaggle Machine Learning & Data Science Survey](https://www.kaggle.com/competitions/kaggle-survey-2022/). <br><br>
+<b>Description</b>: The intention of Kaggle was to conduct an industry-wide survey that presents a truly comprehensive view of the state of data science and machine learning. The survey was live from 09/16/2022 to 10/16/2022, and after cleaning the data, they finished with 23,997 responses!<br><br>
 <b>Objectives</b>: There's a lot to explore in the dataset. The results included raw numbers about who is working with data, what’s happening with machine learning in different industries, and the best ways for new data scientists to break into the field. They had published all of the data rather than only the aggregated survey results, which makes it an unusual example of a survey dataset, as it allows analysts to investigate the data on their own.
 
 
