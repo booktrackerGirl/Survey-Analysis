@@ -1,6 +1,6 @@
 # Survey-Analysis
 
-This repository is primarily to document the different data analysis projects I have worked in so far.
+This repository is primarily to document the different data analysis projects I have worked in so far. These are survey data, and can be found in the linked repositories.
 
 
 ## About the datasets used:
